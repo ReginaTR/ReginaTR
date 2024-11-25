@@ -37,5 +37,5 @@ learning, expanding knowledge in technologies such as React and Node.js to deliv
   <a href="https://discord.com/users/1054461056375861370" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/regina-tarquinio-reis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/ReginaTR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://wakatime.com/@Regina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/wakatime-dark.svg" width="32" height="32" /></a>
+  <a href="https://wakatime.com/@Regina" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/wakatime/000000" width="32" height="32" /></a>
 </p>
