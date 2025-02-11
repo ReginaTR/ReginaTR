@@ -1,8 +1,8 @@
 ## Hi 👋 My name is Regina
 
-#### Back-end Software Developer
+#### FullStack Software Developer
 
-Back-end Developer specialized in Ruby on Rails, with solid experience in multinational healthcare companies and a strong ability to solve complex problems. Transitioning to the tech
+FullStack Developer specialized in Ruby on Rails, with solid experience in multinational healthcare companies and a strong ability to solve complex problems. Transitioning to the tech
 field, I bring hands-on experience in developing web applications using Ruby, Rails, PostgreSQL,and CI/CD practices, along with expertise in process optimization. Committed to continuous
 learning, expanding knowledge in technologies such as React and Node.js to deliver modern and efficient solutions.
 
